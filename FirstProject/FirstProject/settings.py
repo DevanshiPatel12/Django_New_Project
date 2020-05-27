@@ -80,7 +80,8 @@ DATABASES = {
     'default': {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': os.path.join(BASE_DIR,'db.sqlite3'),
-        'ENGINE': 'mysql.connector.django',       #'ENGINE': 'django.db.backends.mysql',
+        #'ENGINE': 'mysql.connector.django',
+        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ca2020django',
         'USER': 'root',
         'PASSWORD': 'Pengineer1@',
