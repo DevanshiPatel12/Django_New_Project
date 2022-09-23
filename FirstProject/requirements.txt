@@ -5,7 +5,7 @@ Django==2.0.5
 mysql==0.0.2
 mysql-connector-python==8.0.18
 mysqlclient==1.4.6
-protobuf==3.6.0
+protobuf==3.18.3
 pytz==2019.3
 six==1.14.0
 virtualenv==20.0.17
